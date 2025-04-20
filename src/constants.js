@@ -35,7 +35,7 @@ import letsplay from "./assets/work/letsplay.png";
 import portfolio from "./assets/work/portfolio.png";
 import currency from "./assets/work/currency.png";
 import food from "./assets/work/food.png";
-import yaudio from "./assets/work/yaudio.png";
+import yaudio from "./assets/work/Yaudio.png";
 import sknews from "./assets/work/sknews.png";
 import Letsplay_player from "./assets/work/Letsplay_player.png";
 
